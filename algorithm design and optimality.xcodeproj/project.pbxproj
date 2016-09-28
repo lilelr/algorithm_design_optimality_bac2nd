@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		DEFA552E1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA552D1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp */; };
 		DEFA55371D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */; };
+		DEFA55391D9BA706004D7BE3 /* Uva 11134 Fabled Rooks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA55381D9BA706004D7BE3 /* Uva 11134 Fabled Rooks.cpp */; };
+		DEFA553B1D9BADD9004D7BE3 /* Uva11054 Wine trading in Gergovia.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA553A1D9BADD9004D7BE3 /* Uva11054 Wine trading in Gergovia.cpp */; };
+		DEFA553D1D9BB0D0004D7BE3 /* Uva11572 Unique snowflakes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA553C1D9BB0D0004D7BE3 /* Uva11572 Unique snowflakes.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +32,9 @@
 		DEFA55341D9B9D19004D7BE3 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
 		DEFA55351D9B9D21004D7BE3 /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
 		DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 1152 4 Values whose Sum is Zero.cpp"; sourceTree = "<group>"; };
+		DEFA55381D9BA706004D7BE3 /* Uva 11134 Fabled Rooks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 11134 Fabled Rooks.cpp"; sourceTree = "<group>"; };
+		DEFA553A1D9BADD9004D7BE3 /* Uva11054 Wine trading in Gergovia.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva11054 Wine trading in Gergovia.cpp"; sourceTree = "<group>"; };
+		DEFA553C1D9BB0D0004D7BE3 /* Uva11572 Unique snowflakes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva11572 Unique snowflakes.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +71,9 @@
 				DEFA55341D9B9D19004D7BE3 /* in */,
 				DEFA55351D9B9D21004D7BE3 /* out */,
 				DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */,
+				DEFA55381D9BA706004D7BE3 /* Uva 11134 Fabled Rooks.cpp */,
+				DEFA553A1D9BADD9004D7BE3 /* Uva11054 Wine trading in Gergovia.cpp */,
+				DEFA553C1D9BB0D0004D7BE3 /* Uva11572 Unique snowflakes.cpp */,
 			);
 			path = "algorithm design and optimality";
 			sourceTree = "<group>";
@@ -125,6 +134,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEFA553D1D9BB0D0004D7BE3 /* Uva11572 Unique snowflakes.cpp in Sources */,
+				DEFA553B1D9BADD9004D7BE3 /* Uva11054 Wine trading in Gergovia.cpp in Sources */,
+				DEFA55391D9BA706004D7BE3 /* Uva 11134 Fabled Rooks.cpp in Sources */,
 				DEFA55371D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp in Sources */,
 				DEFA552E1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp in Sources */,
 			);
