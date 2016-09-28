@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEFA552E1D9B9C3F004D7BE3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA552D1D9B9C3F004D7BE3 /* main.cpp */; };
+		DEFA552E1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA552D1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp */; };
+		DEFA55371D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,10 @@
 
 /* Begin PBXFileReference section */
 		DEFA552A1D9B9C3F004D7BE3 /* algorithm design and optimality */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "algorithm design and optimality"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEFA552D1D9B9C3F004D7BE3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DEFA552D1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "UVa120 Stacks of Flapjacks.cpp"; sourceTree = "<group>"; };
+		DEFA55341D9B9D19004D7BE3 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
+		DEFA55351D9B9D21004D7BE3 /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
+		DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 1152 4 Values whose Sum is Zero.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +61,10 @@
 		DEFA552C1D9B9C3F004D7BE3 /* algorithm design and optimality */ = {
 			isa = PBXGroup;
 			children = (
-				DEFA552D1D9B9C3F004D7BE3 /* main.cpp */,
+				DEFA552D1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp */,
+				DEFA55341D9B9D19004D7BE3 /* in */,
+				DEFA55351D9B9D21004D7BE3 /* out */,
+				DEFA55361D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp */,
 			);
 			path = "algorithm design and optimality";
 			sourceTree = "<group>";
@@ -118,7 +125,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEFA552E1D9B9C3F004D7BE3 /* main.cpp in Sources */,
+				DEFA55371D9BA36B004D7BE3 /* Uva 1152 4 Values whose Sum is Zero.cpp in Sources */,
+				DEFA552E1D9B9C3F004D7BE3 /* UVa120 Stacks of Flapjacks.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
